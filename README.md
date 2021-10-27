@@ -1,2 +1,2 @@
-# useful code snippets etc. for organizr
+# useful code snippets etc. for [causefx/Organizr](https://github.com/causefx/Organizr)
 
