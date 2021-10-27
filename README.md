@@ -1,2 +1,2 @@
-# useful organizr code snippets etc.
+# useful code snippets etc. for organizr
 
