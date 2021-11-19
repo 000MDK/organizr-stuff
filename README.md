@@ -1,3 +1,8 @@
+#2DO:
+- add screenshots in readme
+- add splash stuff
+- add url-escape trick
+
 # useful code snippets etc. for [causefx/Organizr](https://github.com/causefx/Organizr)
 
 ## Custom JS
