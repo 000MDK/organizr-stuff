@@ -1,4 +1,4 @@
-#2DO:
+# 2Do:
 - add screenshots in readme
 - add splash stuff
 - add url-escape trick
