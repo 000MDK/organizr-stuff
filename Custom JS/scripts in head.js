@@ -1,3 +1,3 @@
-var script = document.createElement('script');
-script.type = 'text/javascript';
-script.src = 'https://domain.tld/script.js';  
+var script1 = document.createElement('script');
+script1.type = 'text/javascript';
+script1.src = 'https://domain.tld/script.js';  
