@@ -1,7 +1,10 @@
 # 2Do:
-- add screenshots in readme
 - add splash stuff
 - add url-escape trick
+- add icons used in samples
+- cleanup
+- add infos & screenshots in readme
+- release
 
 # useful code snippets etc. for [causefx/Organizr](https://github.com/causefx/Organizr)
 
@@ -35,9 +38,9 @@ simple searchbar sample code
 
 sample code for adding links
 
-a-style:
+a-style (based on bookmarks):
 
-div-style:
+div-style (based on splashscreen):
 
 ### RSS News:
 
