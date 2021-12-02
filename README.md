@@ -36,9 +36,9 @@ simple searchbar sample code
 
 sample code for adding links
 
-a-style (based on bookmarks):
+`<a>`-style (based on bookmarks):
 
-div-style (based on splashscreen):
+`<div>`-style (based on splashscreen):
 
 ### RSS News:
 
