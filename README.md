@@ -14,7 +14,7 @@ sample code showing how to force (certain) unsupported pages into iframe
 
 ### script in head:
 
-sample code to import a script in <head>-section
+sample code to import a script in `<head>`-section
 
 ## Custom HTML
 
