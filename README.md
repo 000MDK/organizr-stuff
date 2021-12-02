@@ -1,8 +1,6 @@
 # 2Do:
 - add splash stuff
-- add url-escape trick
 - add icons used in samples
-- cleanup
 - add infos & screenshots in readme
 - release
 
