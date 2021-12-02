@@ -1,5 +1,5 @@
 # 2Do:
-- add splash stuff
+- add splash stuff (tab-button)
 - add icons used in samples
 - add infos & screenshots in readme
 - release
