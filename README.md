@@ -1,4 +1,4 @@
-# 2Do: (on hold until customjs works again)
+# 2Do:
 - add splash stuff
 - add url-escape trick
 - add icons used in samples
