@@ -11,4 +11,5 @@ you may want to append
 to your URL in Settings/Tabs, so it's applied when you click the tab
 example: https://something.wontloadinaniframe/ --> https://something.wontloadinaniframe/" onclick=location.reload();
 Be aware, to change that back you need to edit organizr.db with sqllite!
+This is also way too hacky, there should be a background worker for this - will do.
  */
