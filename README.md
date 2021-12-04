@@ -1,4 +1,5 @@
 # 2Do:
+- add background worker for iframe-customjs
 - add splash stuff (tab-button)
 - add icons used in samples
 - add infos & screenshots in readme
