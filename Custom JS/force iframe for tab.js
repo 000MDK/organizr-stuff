@@ -8,8 +8,8 @@ if (frame_Demo !== null) { frame_Demo.outerHTML ='<iframe allow=\"clipboard-read
 /*
 you may want to append
 " onclick=location.reload();
-to your URL in Settings/Tabs, so it's applied when you click the tab
+to your URL in Settings/Tabs, so it's applied when you click the tab (or you  have to reload)
 example: https://something.wontloadinaniframe/ --> https://something.wontloadinaniframe/" onclick=location.reload();
-Be aware, to change that back you need to edit organizr.db with sqllite!
-This is also way too hacky, there should be a background worker for this - will do.
+Be aware, to change that back you need to edit organizr.db!
+This is also way too hacky, there should be a background worker for this (2do).
  */
